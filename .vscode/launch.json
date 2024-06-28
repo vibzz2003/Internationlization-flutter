@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "internationalization",
+            "cwd": "internationalization",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "internationalization (profile mode)",
+            "cwd": "internationalization",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "internationalization (release mode)",
+            "cwd": "internationalization",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}

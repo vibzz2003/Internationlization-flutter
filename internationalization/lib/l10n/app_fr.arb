@@ -1,0 +1,6 @@
+{
+  "@@locale": "fr",
+  "appTitle": "Application multilingue",
+  "animatedText": "Application multilingue",
+  "changeLanguageInstructions": "Vous pouvez changer ce texte dans la langue de votre choix en modifiant le code pays dans le fichier main.dart"
+}

@@ -1,0 +1,15 @@
+{
+  "@@locale": "en",
+  "appTitle": "Multilanguage Application",
+  "animatedText": "Multi language Application",
+  "changeLanguageInstructions": "You can change this text in whichever language you want to by making country code changes to the main.dart file",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  "@animatedText": {
+    "description": "Text used in the animated display"
+  },
+  "@changeLanguageInstructions": {
+    "description": "Instructions for changing the application language"
+  }
+}
